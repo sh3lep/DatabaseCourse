@@ -1,0 +1,4 @@
+Bronze
+Silver
+Gold
+Platinum
